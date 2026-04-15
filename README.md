@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/26746373/README.md)
-# GG_Convert
+# TSV Converter to CSV/.md
 
 Python script that converts TSV or CSV files into:
 
